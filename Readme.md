@@ -1,4 +1,4 @@
-> 基于python+django+vue.js开发的社区养老管理系统，学习过程中遇到问题可以咨询作者：lengqin1024（微信）
+> 基于python+django+vue.js开发的社区养老管理系统，学习过程中，遇到问题可以付费咨询：lengqin1024（微信）
 
 ### 功能介绍
 
